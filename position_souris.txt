@@ -1,38 +1,36 @@
-Souris cliquée à la position (119, 150) //avatar
-Souris cliquée à la position (119, 150) //avatar
+Souris cliquï¿½e ï¿½ la position (119, 150) //avatar
+Souris cliquï¿½e ï¿½ la position (119, 150) //avatar
 
 
-Souris cliquée à la position (205, 406) //female v2
-Souris cliquée à la position (205, 406) //female v2
+Souris cliquï¿½e ï¿½ la position (205, 406) //female v2
+Souris cliquï¿½e ï¿½ la position (205, 406) //female v2
 
-Souris cliquée à la position (206, 772) //avatar
-Souris cliquée à la position (206, 772) //avatar
-
-delai (5s)
-
-Souris cliquée à la position (102, 129) // garnment
-Souris cliquée à la position (102, 129) // garnment
-
-Souris cliquée à la position (204, 408) // vetement
-Souris cliquée à la position (204, 408) //vetement
-
-
-Souris cliquée à la position (912, 523) // additioner les deux ensemble
+Souris cliquï¿½e ï¿½ la position (206, 772) //avatar
+Souris cliquï¿½e ï¿½ la position (206, 772) //avatar
 
 delai (5s)
 
-Souris cliquée à la position (96, 32) //fichier
+Souris cliquï¿½e ï¿½ la position (102, 129) // garnment
+Souris cliquï¿½e ï¿½ la position (102, 129) // garnment
 
-Souris cliquée à la position (133, 230) //exporter
+Souris cliquï¿½e ï¿½ la position (204, 408) // vetement
+Souris cliquï¿½e ï¿½ la position (204, 408) //vetement
 
-Souris cliquée à la position (329, 249) //obj
+
+Souris cliquï¿½e ï¿½ la position (912, 523) // additioner les deux ensemble
+
+delai (5s)
+
+Souris cliquï¿½e ï¿½ la position (96, 32) //fichier
+
+Souris cliquï¿½e ï¿½ la position (133, 230) //exporter
+
+Souris cliquï¿½e ï¿½ la position (329, 249) //obj
 simulation de keyboard (id)
 
-Souris cliquée à la position (765, 502) // enregistrer
+Souris cliquï¿½e ï¿½ la position (765, 502) // enregistrer
 
-Souris cliquée à la position (952, 801) // ok 
+Souris cliquï¿½e ï¿½ la position (952, 801) // ok 
 
+Souris cliquï¿½e ï¿½ la position (1028, 583)  // sauvegarder ? non
 
-
-
-0,0,0,0,0,0,5,0,0,0,5,0,0,0

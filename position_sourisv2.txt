@@ -1,8 +1,2 @@
-Souris cliquée à la position (89, 28)
-Souris cliquée à la position (89, 28)
-Souris cliquée à la position (106, 83)
-Souris cliquée à la position (106, 83)
-Souris cliquée à la position (300, 102)
-Souris cliquée à la position (300, 102)
-Souris cliquée à la position (3237, 231)
-Souris cliquée à la position (3237, 231)
+-177,60
+1

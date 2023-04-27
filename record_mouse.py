@@ -2,7 +2,7 @@ import sys
 import sys
 from pynput import mouse, keyboard
 
-filename = "position_sourisv2.txt"
+filename = "position_sourisse3.txt"
 
 def on_click(x, y, button, pressed):
     if button == mouse.Button.left:
